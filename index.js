@@ -2,4 +2,10 @@ function Scooter (year, color, model){
   
 }
 
-function
+function Driver (){
+  
+}
+
+function PickupLocation () {
+  
+}
